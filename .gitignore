@@ -1,0 +1,3 @@
+# Ignore run output
+rename-results.csv
+*.log
